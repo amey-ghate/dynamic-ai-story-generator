@@ -25,7 +25,7 @@ Dynamic AI Story Generator is an interactive web application that uses the power
   ```
 2. Install the required dependencies:
    ```bash
-    pip install -r requirements.txt
+  pip install -r requirements.txt
   ```
 3. Place your book cover image in the images folder with the name book_cover.jpg.
 4. Run the application:
