@@ -22,18 +22,18 @@ Dynamic AI Story Generator is an interactive web application that uses the power
    ```bash
    git clone https://github.com/your-username/dynamic-ai-story-generator.git
    cd dynamic-ai-story-generator
-  ```
+```
 2. Install the required dependencies:
    ```bash
   pip install -r requirements.txt
-  ```
+```
 3. Place your book cover image in the images folder with the name book_cover.jpg.
 4. Run the application:
    ```bash
   streamlit run app.py
-  ```
+```
 5. Open your browser and navigate to:
   ```bash
   http://localhost:8501
-  ```
+```
 
