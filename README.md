@@ -23,5 +23,6 @@ Dynamic AI Story Generator is an interactive web application that uses the power
    git clone https://github.com/your-username/dynamic-ai-story-generator.git
    cd dynamic-ai-story-generator
   ```
+
 2. Install the required dependencies:
 
