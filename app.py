@@ -107,5 +107,5 @@ if st.sidebar.button("✨ Generate Story"):
 # Footer
 st.markdown("""
     ---
-    Made with ❤️ using [Streamlit](https://streamlit.io/) and Llama 3.1.
+    Made with ❤️ using [Streamlit](https://streamlit.io/) and Llama 3.1 by [Amey Ghate].
 """)
